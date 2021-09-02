@@ -1,0 +1,47 @@
+body{
+    margin:0;
+}
+.navbar-brand img{
+    width:30px;
+    height:30px;
+    border-radius: 10px;
+}
+.school{
+    background-color:rgba(52, 73, 94, 0.6);
+    text-align: center;
+    margin-bottom: 0;
+    color:#fff;
+    padding:10px;
+}
+
+.st-in{
+    border:5px solid green;
+    width:40%;
+    border-radius: 5px;
+    margin: 10px auto;
+    background-color: grey;
+}
+.st-info{
+    border: 5px solid greenyellow;
+}
+.formWrapper{
+    border:solid 5px #F1F1F1;
+    background-color: #AFC8DE;
+}
+label{
+    width: 100px;
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.btn-p{
+    margin-top: 10px;
+    width: 20%;
+    border: 5px solid greenyellow;
+    text-align: center;
+    margin-left: 40%;
+}
+.fff{
+    margin-top: 20px;
+}
